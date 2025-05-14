@@ -1,0 +1,7 @@
+{
+  "name": "edugestor",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
