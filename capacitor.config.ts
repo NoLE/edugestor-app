@@ -2,7 +2,7 @@ import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
   appId: 'app.web.inveduca',
-  appName: 'EduGestor',
+  appName: 'eduGestor',
   webDir: 'www'
 };
 
