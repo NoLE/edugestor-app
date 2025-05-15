@@ -1,0 +1,7 @@
+[
+  {
+    "origin": ["*"],
+    "methods": ["GET"],
+    "maxAgeSecods": 3600
+  }
+]
