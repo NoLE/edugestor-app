@@ -6,7 +6,7 @@ export const environment = {
     projectId: "inveducades",
     storageBucket: "inveducades.firebasestorage.app",
     messagingSenderId: "99358423388",
-    appId: "1:99358423388:web:8e2779bcf01962ab276999",
-    measurementId: "G-Q5004MSHGR"
+    appId: "1:99358423388:web:5c3e1407e7175fe7276999",
+    measurementId: "G-E883CCY7DH"
   }
 };

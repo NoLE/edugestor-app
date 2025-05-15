@@ -13,8 +13,8 @@ export class HomePage {
   private firestoreService: FirestoreService = inject(FirestoreService);
 
   constructor() {
-    this.test();
-    this.testLectura();
+    //this.test();
+    //this.testLectura();
   }
 
   async test() {
